@@ -1,2 +1,2 @@
 # CC1
-For Collage Purpose
+Cloud Computing Practical
